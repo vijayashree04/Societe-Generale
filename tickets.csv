@@ -1,0 +1,4 @@
+id,title,name,email,description,priority,category,assigned_agent,status
+1,Log in problem,Vijaya Shree,21l259@psgtech.ac.in,Unable to log in to the website,Medium,Account,Agent2,Open
+2,WiFi not working,Yasvanthika,21l263@psgtech.ac.in,Unable to connect to the WiFi,High,Account,Agent2,Open
+3,Reset password,Abcd,123@gmail.com,Forget the password to log in,High,Account,Agent2,Open
